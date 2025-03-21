@@ -6,7 +6,7 @@ This project analyzes **customer churn** to identify key factors affecting reten
 ## 📌 Reference  
 This project is based on a tutorial. Follow the original steps here:  
 🔗 [Tutorial Link](https://pivotalstats.com/end-end-churn-analysis-portfolio-project/)  
-## 📌 Reference  
+## 📌 Project Documentation  
 I have documented this updated project on medium if you wish to understand the insights and steps: 
 🔗 [Medium link](https://medium.com/@addytalpade9/a-guide-to-using-ai-for-data-analysis-for-analysts-developers-and-businesses-e6a9bfb5a9c0)  
 
