@@ -11,7 +11,7 @@ I have documented this updated project on medium if you wish to understand the i
 🔗 [Medium link](https://medium.com/@addytalpade9/end-to-end-churn-prediction-sql-power-bi-ml-an-interactive-web-app-for-churn-probability-fe77d354dbeb)  
 
 ### 🔹 **Key Enhancements**  
-- The **churn prediction model** is implemented in **Kaggle notebooks** instead of Jupyter. Since I have extended the referred project by building a web app, the code file in my project exports the predicted CSV as shown in the referred tutorial plus the code of the prediction probability web application I have built for prediction probability
+- The **churn prediction model** is implemented in **Kaggle notebooks** instead of Jupyter. Since I have extended the referred project by building a web app, the code file in my project exports the predicted CSV as shown in the referred tutorial plus the code of the prediction probability web application I have built for prediction probability. Use code in file: Churn-prediction-application-code.py for Kaggle processing.
 - A **web app** is added for predictions (screenshot in `screenshots/`).  
 
 ## 📂 **Project Structure**  
