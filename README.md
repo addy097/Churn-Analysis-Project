@@ -8,7 +8,7 @@ This project is based on a tutorial. Follow the original steps here:
 🔗 [Tutorial Link](https://pivotalstats.com/end-end-churn-analysis-portfolio-project/)  
 ## 📌 Project Documentation  
 I have documented this updated project on medium if you wish to understand the insights and steps: 
-🔗 [Medium link](https://medium.com/@addytalpade9/a-guide-to-using-ai-for-data-analysis-for-analysts-developers-and-businesses-e6a9bfb5a9c0)  
+🔗 [Medium link](https://medium.com/@addytalpade9/end-to-end-churn-prediction-sql-power-bi-ml-an-interactive-web-app-for-churn-probability-fe77d354dbeb)  
 
 ### 🔹 **Key Enhancements**  
 - The **churn prediction model** is implemented in **Kaggle notebooks** instead of Jupyter.  
