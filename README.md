@@ -19,7 +19,7 @@ Churn-Analysis-Project/ │-- 📂 data/ # Contains datasets │ ├── origi
 
 ## 🚀 **How to Use This Project**  
 1. Follow **SQL.md** (`sql/`) to extract and transform data.  
-2. Run **Python.md** (`code/`) to train and test the churn prediction model.  
+2. Run **Churn-prediction-application-code.py** (`code/`) to train and test the churn prediction model, and build the application.  
 3. Check **dashboard screenshots** (`screenshots/`) for insights.  
 
 📊 **Tech Stack:** SQL | Python | Power BI | Kaggle Notebooks  
